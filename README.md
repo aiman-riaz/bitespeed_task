@@ -4,7 +4,7 @@ A backend service that identifies and links customers across multiple purchases 
 
 ## Live Endpoint
 ```
-POST https://bitespeed-task-b8aw.onrender.com
+POST https://bitespeed-task-b8aw.onrender.com/identify
 ```
 
 ## Run Locally
